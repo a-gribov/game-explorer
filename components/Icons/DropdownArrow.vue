@@ -1,0 +1,12 @@
+<template>
+  <svg fill="#666" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M7 10l5 5 5-5z" />
+  </svg>
+</template>
+
+<style scoped>
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
